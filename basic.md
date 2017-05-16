@@ -75,6 +75,7 @@
 3. See ./error.go for example. 
 
 
+## Arrays and Slices
 
-
+## Maps
 
